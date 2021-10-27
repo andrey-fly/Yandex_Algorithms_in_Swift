@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		DC4710182721A43A00DFC478 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DC5C6F7B2729C68600830747 /* A.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = A.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DCBF89B7272A12E5005924C9 /* B.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = B.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DCBF89B8272A16A7005924C9 /* C.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = C.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DCE55DA927219F5300C5CD91 /* Yandex Algorithms in Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Yandex Algorithms in Swift"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCE55DAC27219F5300C5CD91 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		DCE55DB527219F9B00C5CD91 /* B.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = B.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -72,6 +74,8 @@
 			isa = PBXGroup;
 			children = (
 				DC5C6F7B2729C68600830747 /* A.playground */,
+				DCBF89B7272A12E5005924C9 /* B.playground */,
+				DCBF89B8272A16A7005924C9 /* C.playground */,
 			);
 			path = "training 1";
 			sourceTree = "<group>";
