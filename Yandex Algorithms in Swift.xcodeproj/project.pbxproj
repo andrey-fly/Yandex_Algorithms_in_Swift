@@ -25,8 +25,12 @@
 /* Begin PBXFileReference section */
 		DC4710182721A43A00DFC478 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DC5C6F7B2729C68600830747 /* A.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = A.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DCB03EB2272C6B8400D4527F /* F.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = F.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DCB03EB32730348E00D4527F /* G.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = G.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DCBF89B7272A12E5005924C9 /* B.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = B.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DCBF89B8272A16A7005924C9 /* C.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = C.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DCBF89CC272A9DFB005924C9 /* A.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = A.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DCBF89CD272AE9E7005924C9 /* D.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = D.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DCE55DA927219F5300C5CD91 /* Yandex Algorithms in Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Yandex Algorithms in Swift"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCE55DAC27219F5300C5CD91 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		DCE55DB527219F9B00C5CD91 /* B.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = B.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -43,6 +47,48 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		DC2E366F27305CF4004B651E /* training 3 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "training 3";
+			sourceTree = "<group>";
+		};
+		DC2E36702730681A004B651E /* training 4 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "training 4";
+			sourceTree = "<group>";
+		};
+		DC2E367127306844004B651E /* training 6 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "training 6";
+			sourceTree = "<group>";
+		};
+		DC2E367227306851004B651E /* training 7 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "training 7";
+			sourceTree = "<group>";
+		};
+		DC2E367327306863004B651E /* training 8 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "training 8";
+			sourceTree = "<group>";
+		};
+		DCBF89D2272C3ADE005924C9 /* training 2 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "training 2";
+			sourceTree = "<group>";
+		};
 		DCE55DA027219F5300C5CD91 = {
 			isa = PBXGroup;
 			children = (
@@ -64,7 +110,13 @@
 			isa = PBXGroup;
 			children = (
 				DCE55DB327219F6700C5CD91 /* training 1 */,
+				DCBF89D2272C3ADE005924C9 /* training 2 */,
+				DC2E366F27305CF4004B651E /* training 3 */,
+				DC2E36702730681A004B651E /* training 4 */,
 				DCE55DB427219F7400C5CD91 /* training 5 */,
+				DC2E367127306844004B651E /* training 6 */,
+				DC2E367227306851004B651E /* training 7 */,
+				DC2E367327306863004B651E /* training 8 */,
 				DCE55DAC27219F5300C5CD91 /* main.swift */,
 			);
 			path = "Yandex Algorithms in Swift";
@@ -76,6 +128,9 @@
 				DC5C6F7B2729C68600830747 /* A.playground */,
 				DCBF89B7272A12E5005924C9 /* B.playground */,
 				DCBF89B8272A16A7005924C9 /* C.playground */,
+				DCBF89CD272AE9E7005924C9 /* D.playground */,
+				DCB03EB2272C6B8400D4527F /* F.playground */,
+				DCB03EB32730348E00D4527F /* G.playground */,
 			);
 			path = "training 1";
 			sourceTree = "<group>";
@@ -83,6 +138,7 @@
 		DCE55DB427219F7400C5CD91 /* training 5 */ = {
 			isa = PBXGroup;
 			children = (
+				DCBF89CC272A9DFB005924C9 /* A.playground */,
 				DCE55DB527219F9B00C5CD91 /* B.playground */,
 			);
 			path = "training 5";
@@ -270,10 +326,11 @@
 		DCE55DB127219F5300C5CD91 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = HF49JX687L;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -281,10 +338,11 @@
 		DCE55DB227219F5300C5CD91 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = HF49JX687L;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
