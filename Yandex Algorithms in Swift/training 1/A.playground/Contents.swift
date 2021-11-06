@@ -9,7 +9,7 @@ let conditionsArray = readLine()!.split(separator: " ").map {
     }
 let tRoom = conditionsArray[0]
 let tCond = conditionsArray[1]
-let mode = readLine()!
+let mode = readLine()
 
 if (mode == "heat" && tRoom <= tCond) || (mode == "freeze" && tRoom >= tCond) || mode == "auto" {
     print(tCond)
