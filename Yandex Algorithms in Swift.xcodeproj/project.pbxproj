@@ -34,6 +34,7 @@
 		DC2E36822733EF01004B651E /* C.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = C.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DC2E368327342FF4004B651E /* D.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = D.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DC4710182721A43A00DFC478 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		DC4C22A42738015A00BED316 /* B.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = B.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DC5C6F7B2729C68600830747 /* A.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = A.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DC7E74022736E51C00DFAACA /* С.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "С.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DCB03EB2272C6B8400D4527F /* F.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = F.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -105,6 +106,7 @@
 			isa = PBXGroup;
 			children = (
 				DC2E367427306A6A004B651E /* A.playground */,
+				DC4C22A42738015A00BED316 /* B.playground */,
 			);
 			path = "training 2";
 			sourceTree = "<group>";
