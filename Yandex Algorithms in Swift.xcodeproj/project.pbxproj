@@ -33,16 +33,21 @@
 		DC2E367A27306F62004B651E /* B.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = B.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DC2E36822733EF01004B651E /* C.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = C.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DC2E368327342FF4004B651E /* D.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = D.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DC3AC2382747D839005C35F2 /* J.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = J.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DC3AC2392747DDA2005C35F2 /* H.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = H.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DC3AC23A2747DDDB005C35F2 /* E.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = E.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DC4710182721A43A00DFC478 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DC4C22A42738015A00BED316 /* B.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = B.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DC5C6F7B2729C68600830747 /* A.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = A.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DC7E74022736E51C00DFAACA /* С.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "С.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DCA5B25827469E2A00B91597 /* B.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = B.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DCB03EB2272C6B8400D4527F /* F.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = F.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DCB03EB32730348E00D4527F /* G.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = G.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DCBF89B7272A12E5005924C9 /* B.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = B.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DCBF89B8272A16A7005924C9 /* C.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = C.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DCBF89CC272A9DFB005924C9 /* A.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = A.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DCBF89CD272AE9E7005924C9 /* D.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = D.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		DCDAFDB02747D503005776FE /* I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = I.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DCE55DA927219F5300C5CD91 /* Yandex Algorithms in Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Yandex Algorithms in Swift"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCE55DAC27219F5300C5CD91 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		DCE55DB527219F9B00C5CD91 /* B.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = B.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -82,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				DC2E367727306AA4004B651E /* A.playground */,
+				DCA5B25827469E2A00B91597 /* B.playground */,
 			);
 			path = "training 6";
 			sourceTree = "<group>";
@@ -151,8 +157,12 @@
 				DCBF89B7272A12E5005924C9 /* B.playground */,
 				DCBF89B8272A16A7005924C9 /* C.playground */,
 				DCBF89CD272AE9E7005924C9 /* D.playground */,
+				DC3AC23A2747DDDB005C35F2 /* E.playground */,
 				DCB03EB2272C6B8400D4527F /* F.playground */,
 				DCB03EB32730348E00D4527F /* G.playground */,
+				DC3AC2392747DDA2005C35F2 /* H.playground */,
+				DCDAFDB02747D503005776FE /* I.playground */,
+				DC3AC2382747D839005C35F2 /* J.playground */,
 			);
 			path = "training 1";
 			sourceTree = "<group>";
