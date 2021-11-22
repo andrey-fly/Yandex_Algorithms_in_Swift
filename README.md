@@ -4,7 +4,7 @@
 
 | Решения по тренировкам  | Задач в блоке решено |
 | ------ | ------ |
-| [1. Сложность, тестирование, особые случаи](./Yandex%20Algorithms%20in%20Swift/training%201/) | 6/10 |
+| [1. Сложность, тестирование, особые случаи](./Yandex%20Algorithms%20in%20Swift/training%201/) | 10/10 ✅ |
 | [2. Линейный поиск](./Yandex%20Algorithms%20in%20Swift/training%202/) | 2/10 |
 | [3. Множества](./Yandex%20Algorithms%20in%20Swift/training%203/) | 4/10 |
 | [4. Словари и сортировка подсчётом](./Yandex%20Algorithms%20in%20Swift/training%204/) | 0/10 |
