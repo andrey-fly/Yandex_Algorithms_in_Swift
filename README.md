@@ -16,7 +16,7 @@
 #### Лекции
 
 | Название и номер лекции  | Лекция | Контест |
-| ------ | ------ |
+| ------ | ------ | ------ |
 | 1. Сложность, тестирование, особые случаи | [ссылка](https://youtu.be/QLhqYNsPIVo) | [ссылка](https://contest.yandex.ru/contest/27393/enter/) |
 | 2. Линейный поиск | [ссылка](https://youtu.be/SKwB41FrGgU) | [ссылка](https://contest.yandex.ru/contest/27472/enter/) |
 | 3. Множества | [ссылка](https://youtu.be/PUpmV2ieIHA) | [ссылка](https://contest.yandex.ru/contest/27663/enter/) |
