@@ -15,16 +15,16 @@
 
 #### Лекции
 
-| Название и номер лекции  | Контест |
+| Название и номер лекции  | Лекция | Контест |
 | ------ | ------ |
-| [1. Сложность, тестирование, особые случаи](https://youtu.be/QLhqYNsPIVo) | [ссылка](https://contest.yandex.ru/contest/27393/enter/) |
-| [2. Линейный поиск](https://youtu.be/SKwB41FrGgU) | [ссылка](https://contest.yandex.ru/contest/27472/enter/) |
-| [3. Множества](https://youtu.be/PUpmV2ieIHA) | [ссылка](https://contest.yandex.ru/contest/27663/enter/) |
-| [4. Словари и сортировка подсчётом](https://youtu.be/Nb5mW1yWVSs) | [ссылка](https://contest.yandex.ru/contest/27665/enter/) |
-| [5. Префиксные суммы и два указателя](https://youtu.be/de28y8Dcvkg) | [ссылка](https://contest.yandex.ru/contest/27794/enter/) |
-| [6. Бинарный поиск](https://youtu.be/YENpZexHfuk) | [ссылка](https://contest.yandex.ru/contest/27844/enter/) |
-| [7. Сортировка событий](https://youtu.be/hGixDBO-p6Q) | [ссылка](https://contest.yandex.ru/contest/27883/enter/) |
-| [8. Деревья](https://youtu.be/lEJzqHgyels) | [ссылка](https://contest.yandex.ru/contest/28069/enter/) |
+| 1. Сложность, тестирование, особые случаи | [ссылка](https://youtu.be/QLhqYNsPIVo) | [ссылка](https://contest.yandex.ru/contest/27393/enter/) |
+| 2. Линейный поиск | [ссылка](https://youtu.be/SKwB41FrGgU) | [ссылка](https://contest.yandex.ru/contest/27472/enter/) |
+| 3. Множества | [ссылка](https://youtu.be/PUpmV2ieIHA) | [ссылка](https://contest.yandex.ru/contest/27663/enter/) |
+| 4. Словари и сортировка подсчётом | [ссылка](https://youtu.be/Nb5mW1yWVSs) | [ссылка](https://contest.yandex.ru/contest/27665/enter/) |
+| 5. Префиксные суммы и два указателя | [ссылка](https://youtu.be/de28y8Dcvkg) | [ссылка](https://contest.yandex.ru/contest/27794/enter/) |
+| 6. Бинарный поиск | [ссылка](https://youtu.be/YENpZexHfuk) | [ссылка](https://contest.yandex.ru/contest/27844/enter/) |
+| 7. Сортировка событий | [ссылка](https://youtu.be/hGixDBO-p6Q) | [ссылка](https://contest.yandex.ru/contest/27883/enter/) |
+| 8. Деревья | [ссылка](https://youtu.be/lEJzqHgyels) | [ссылка](https://contest.yandex.ru/contest/28069/enter/) |
 
 #### Разбор домашних заданий
 
