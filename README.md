@@ -9,7 +9,7 @@
 | [3. Множества](./Yandex%20Algorithms%20in%20Swift/training%203/) | 4/10 |
 | [4. Словари и сортировка подсчётом](./Yandex%20Algorithms%20in%20Swift/training%204/) | 0/10 |
 | [5. Префиксные суммы и два указателя](./Yandex%20Algorithms%20in%20Swift/training%205/) | 4/10 |
-| [6. Бинарный поиск](./Yandex%20Algorithms%20in%20Swift/training%206/) | 4/10 |
+| [6. Бинарный поиск](./Yandex%20Algorithms%20in%20Swift/training%206/) | 5/10 |
 | [7. Сортировка событий](./Yandex%20Algorithms%20in%20Swift/training%207/) | 0/10 |
 | [8. Деревья](./Yandex%20Algorithms%20in%20Swift/training%208/) | 0/10 |
 
