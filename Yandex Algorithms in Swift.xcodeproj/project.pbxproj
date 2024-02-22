@@ -23,6 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6DA082E02B86BA280010A251 /* J.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = J.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6DA082E12B86BA4B0010A251 /* I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = I.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6DA082E22B86C2370010A251 /* E.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = E.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6DA082E32B86C24A0010A251 /* F.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = F.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6DA082E42B86C2610010A251 /* G.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = G.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6DA082E52B86C2780010A251 /* H.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = H.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DC14DDF0273709B70087BBF5 /* D.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = D.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DC2E367427306A6A004B651E /* A.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = A.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		DC2E367527306A7C004B651E /* A.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = A.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -84,6 +90,12 @@
 				DC2E367A27306F62004B651E /* B.playground */,
 				DC2E36822733EF01004B651E /* C.playground */,
 				DC2E368327342FF4004B651E /* D.playground */,
+				6DA082E22B86C2370010A251 /* E.playground */,
+				6DA082E32B86C24A0010A251 /* F.playground */,
+				6DA082E42B86C2610010A251 /* G.playground */,
+				6DA082E52B86C2780010A251 /* H.playground */,
+				6DA082E12B86BA4B0010A251 /* I.playground */,
+				6DA082E02B86BA280010A251 /* J.playground */,
 			);
 			path = "training 3";
 			sourceTree = "<group>";

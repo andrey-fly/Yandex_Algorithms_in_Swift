@@ -1,0 +1,2 @@
+ABBACAB
+BCABB

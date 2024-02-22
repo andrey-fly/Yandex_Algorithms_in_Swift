@@ -1,0 +1,10 @@
+3
+3
+Russian
+English
+Japanese
+2
+Russian
+English
+1
+English
